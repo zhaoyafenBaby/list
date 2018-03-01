@@ -1,0 +1,25 @@
+.wrapper{
+	width:500px;
+	border:2px solid #ccc;
+	margin:100px auto;
+	border-radius:8px;
+}
+.wrapper input{
+	width:200px;
+	height:30px;
+	margin:20px 10px 0 40px;
+	font-size:20px;
+	line-height:30px;
+	border:1px solid #290;
+}
+.wrapper button{
+	height:35px;
+	width:50px;
+	border-radius: 4px;
+}
+.wrapper li{
+	list-style: none;
+	border-bottom:2px solid #ddd;
+	padding:20px 0 0 0;
+	margin:0 40px 0 0;
+}
